@@ -1,0 +1,24 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+# Virtual environments
+.venv/
+venv/
+ 
+# Local environment variables and secrets
+.env
+.env.*
+ 
+# Local Django database and uploaded media
+db.sqlite3
+
+ 
+# Editor settings
+.vscode/
+.idea/
+ 
+# Logs
+*.log
+ 
